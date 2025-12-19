@@ -12,6 +12,7 @@ public class Vehiculo {
 		this.modelo=modelo;
 		this.prestado=prestado;
 	}
+<<<<<<< HEAD
 	
 	public String getMatricula() {
 		return matricula;
@@ -50,3 +51,7 @@ public class Vehiculo {
 }
 
 
+=======
+}
+
+>>>>>>> 6739c79b284341522e284f96a0248776aebf48c0
